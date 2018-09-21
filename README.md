@@ -1,2 +1,1 @@
-# hoc-git
-learning
+Huong dan git
